@@ -96,3 +96,4 @@ static/data
 
 # VS Code
 .vscode
+.vercel
